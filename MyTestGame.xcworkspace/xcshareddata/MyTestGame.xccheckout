@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>EB6167F6-452A-4FF9-8BB2-E5ADC0F3C5A4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MyTestGame</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>332DB90395182271F9DC3CD8FF372AA1DA838EBF</key>
+		<string>https://github.com/brasbug/MytestGame.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MyTestGame.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>332DB90395182271F9DC3CD8FF372AA1DA838EBF</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/brasbug/MytestGame.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>332DB90395182271F9DC3CD8FF372AA1DA838EBF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>332DB90395182271F9DC3CD8FF372AA1DA838EBF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MyTestGame</string>
+		</dict>
+	</array>
+</dict>
+</plist>
